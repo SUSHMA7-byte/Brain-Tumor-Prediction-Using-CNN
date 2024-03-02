@@ -21,8 +21,6 @@ The Streamlit application is developed to provide an intuitive interface for upl
 The trained CNN model for brain tumor prediction is integrated into the Streamlit application. The model is loaded within the application and used to make predictions on uploaded MRI images.
 ### 3.Image Processing:
 MRI images uploaded through the Streamlit interface are preprocessed to enhance image quality and prepare them for input to the prediction model. Preprocessing steps may include resizing, normalization, and formatting.
-### Deployment:
-Once validated, the trained model is deployed within a software application or platform accessible to medical professionals. The deployment ensures that the system can be utilized in clinical settings for real-time prediction and decision support.
 
 # Conclusion
 The Brain Tumor Prediction System with Streamlit Integration represents a valuable tool for medical professionals in the field of neurology. By combining advanced machine learning techniques with the intuitive interface provided by Streamlit, the system enables efficient analysis of MRI images and accurate prediction of brain tumors. This integration facilitates streamlined workflows and supports informed decision-making, ultimately improving patient care and outcomes.
